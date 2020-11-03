@@ -1,0 +1,13 @@
+C:\Repos\Problem_solving_algorithm_practice\Non_LeetCode_problems\C-Sharp\C-Sharp\TimeConvert\bin\Debug\netcoreapp3.1\TimeConvert.exe
+C:\Repos\Problem_solving_algorithm_practice\Non_LeetCode_problems\C-Sharp\C-Sharp\TimeConvert\bin\Debug\netcoreapp3.1\TimeConvert.deps.json
+C:\Repos\Problem_solving_algorithm_practice\Non_LeetCode_problems\C-Sharp\C-Sharp\TimeConvert\bin\Debug\netcoreapp3.1\TimeConvert.runtimeconfig.json
+C:\Repos\Problem_solving_algorithm_practice\Non_LeetCode_problems\C-Sharp\C-Sharp\TimeConvert\bin\Debug\netcoreapp3.1\TimeConvert.runtimeconfig.dev.json
+C:\Repos\Problem_solving_algorithm_practice\Non_LeetCode_problems\C-Sharp\C-Sharp\TimeConvert\bin\Debug\netcoreapp3.1\TimeConvert.dll
+C:\Repos\Problem_solving_algorithm_practice\Non_LeetCode_problems\C-Sharp\C-Sharp\TimeConvert\bin\Debug\netcoreapp3.1\TimeConvert.pdb
+C:\Repos\Problem_solving_algorithm_practice\Non_LeetCode_problems\C-Sharp\C-Sharp\TimeConvert\obj\Debug\netcoreapp3.1\TimeConvert.csprojAssemblyReference.cache
+C:\Repos\Problem_solving_algorithm_practice\Non_LeetCode_problems\C-Sharp\C-Sharp\TimeConvert\obj\Debug\netcoreapp3.1\TimeConvert.AssemblyInfoInputs.cache
+C:\Repos\Problem_solving_algorithm_practice\Non_LeetCode_problems\C-Sharp\C-Sharp\TimeConvert\obj\Debug\netcoreapp3.1\TimeConvert.AssemblyInfo.cs
+C:\Repos\Problem_solving_algorithm_practice\Non_LeetCode_problems\C-Sharp\C-Sharp\TimeConvert\obj\Debug\netcoreapp3.1\TimeConvert.csproj.CoreCompileInputs.cache
+C:\Repos\Problem_solving_algorithm_practice\Non_LeetCode_problems\C-Sharp\C-Sharp\TimeConvert\obj\Debug\netcoreapp3.1\TimeConvert.dll
+C:\Repos\Problem_solving_algorithm_practice\Non_LeetCode_problems\C-Sharp\C-Sharp\TimeConvert\obj\Debug\netcoreapp3.1\TimeConvert.pdb
+C:\Repos\Problem_solving_algorithm_practice\Non_LeetCode_problems\C-Sharp\C-Sharp\TimeConvert\obj\Debug\netcoreapp3.1\TimeConvert.genruntimeconfig.cache

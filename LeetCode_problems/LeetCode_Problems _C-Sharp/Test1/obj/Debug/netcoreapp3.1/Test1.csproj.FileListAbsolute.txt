@@ -1,0 +1,13 @@
+C:\Repos\Problem_solving_algorithm_practice\LeetCode_problems\LeetCode_Problems _C-Sharp\Test1\bin\Debug\netcoreapp3.1\Test1.exe
+C:\Repos\Problem_solving_algorithm_practice\LeetCode_problems\LeetCode_Problems _C-Sharp\Test1\bin\Debug\netcoreapp3.1\Test1.deps.json
+C:\Repos\Problem_solving_algorithm_practice\LeetCode_problems\LeetCode_Problems _C-Sharp\Test1\bin\Debug\netcoreapp3.1\Test1.runtimeconfig.json
+C:\Repos\Problem_solving_algorithm_practice\LeetCode_problems\LeetCode_Problems _C-Sharp\Test1\bin\Debug\netcoreapp3.1\Test1.runtimeconfig.dev.json
+C:\Repos\Problem_solving_algorithm_practice\LeetCode_problems\LeetCode_Problems _C-Sharp\Test1\bin\Debug\netcoreapp3.1\Test1.dll
+C:\Repos\Problem_solving_algorithm_practice\LeetCode_problems\LeetCode_Problems _C-Sharp\Test1\bin\Debug\netcoreapp3.1\Test1.pdb
+C:\Repos\Problem_solving_algorithm_practice\LeetCode_problems\LeetCode_Problems _C-Sharp\Test1\obj\Debug\netcoreapp3.1\Test1.csprojAssemblyReference.cache
+C:\Repos\Problem_solving_algorithm_practice\LeetCode_problems\LeetCode_Problems _C-Sharp\Test1\obj\Debug\netcoreapp3.1\Test1.AssemblyInfoInputs.cache
+C:\Repos\Problem_solving_algorithm_practice\LeetCode_problems\LeetCode_Problems _C-Sharp\Test1\obj\Debug\netcoreapp3.1\Test1.AssemblyInfo.cs
+C:\Repos\Problem_solving_algorithm_practice\LeetCode_problems\LeetCode_Problems _C-Sharp\Test1\obj\Debug\netcoreapp3.1\Test1.csproj.CoreCompileInputs.cache
+C:\Repos\Problem_solving_algorithm_practice\LeetCode_problems\LeetCode_Problems _C-Sharp\Test1\obj\Debug\netcoreapp3.1\Test1.dll
+C:\Repos\Problem_solving_algorithm_practice\LeetCode_problems\LeetCode_Problems _C-Sharp\Test1\obj\Debug\netcoreapp3.1\Test1.pdb
+C:\Repos\Problem_solving_algorithm_practice\LeetCode_problems\LeetCode_Problems _C-Sharp\Test1\obj\Debug\netcoreapp3.1\Test1.genruntimeconfig.cache
