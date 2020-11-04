@@ -1,0 +1,13 @@
+C:\Repos\Problem_solving_algorithm_practice\Non_LeetCode_problems\C-Sharp\C-Sharp\Palindrome\bin\Debug\netcoreapp3.1\StringPalindrome.exe
+C:\Repos\Problem_solving_algorithm_practice\Non_LeetCode_problems\C-Sharp\C-Sharp\Palindrome\bin\Debug\netcoreapp3.1\StringPalindrome.deps.json
+C:\Repos\Problem_solving_algorithm_practice\Non_LeetCode_problems\C-Sharp\C-Sharp\Palindrome\bin\Debug\netcoreapp3.1\StringPalindrome.runtimeconfig.json
+C:\Repos\Problem_solving_algorithm_practice\Non_LeetCode_problems\C-Sharp\C-Sharp\Palindrome\bin\Debug\netcoreapp3.1\StringPalindrome.runtimeconfig.dev.json
+C:\Repos\Problem_solving_algorithm_practice\Non_LeetCode_problems\C-Sharp\C-Sharp\Palindrome\bin\Debug\netcoreapp3.1\StringPalindrome.dll
+C:\Repos\Problem_solving_algorithm_practice\Non_LeetCode_problems\C-Sharp\C-Sharp\Palindrome\bin\Debug\netcoreapp3.1\StringPalindrome.pdb
+C:\Repos\Problem_solving_algorithm_practice\Non_LeetCode_problems\C-Sharp\C-Sharp\Palindrome\obj\Debug\netcoreapp3.1\StringPalindrome.csprojAssemblyReference.cache
+C:\Repos\Problem_solving_algorithm_practice\Non_LeetCode_problems\C-Sharp\C-Sharp\Palindrome\obj\Debug\netcoreapp3.1\StringPalindrome.AssemblyInfoInputs.cache
+C:\Repos\Problem_solving_algorithm_practice\Non_LeetCode_problems\C-Sharp\C-Sharp\Palindrome\obj\Debug\netcoreapp3.1\StringPalindrome.AssemblyInfo.cs
+C:\Repos\Problem_solving_algorithm_practice\Non_LeetCode_problems\C-Sharp\C-Sharp\Palindrome\obj\Debug\netcoreapp3.1\StringPalindrome.csproj.CoreCompileInputs.cache
+C:\Repos\Problem_solving_algorithm_practice\Non_LeetCode_problems\C-Sharp\C-Sharp\Palindrome\obj\Debug\netcoreapp3.1\StringPalindrome.dll
+C:\Repos\Problem_solving_algorithm_practice\Non_LeetCode_problems\C-Sharp\C-Sharp\Palindrome\obj\Debug\netcoreapp3.1\StringPalindrome.pdb
+C:\Repos\Problem_solving_algorithm_practice\Non_LeetCode_problems\C-Sharp\C-Sharp\Palindrome\obj\Debug\netcoreapp3.1\StringPalindrome.genruntimeconfig.cache

@@ -10,3 +10,4 @@ C:\Repos\Problem_solving_algorithm_practice\Non_LeetCode_problems\C-Sharp\C-Shar
 C:\Repos\Problem_solving_algorithm_practice\Non_LeetCode_problems\C-Sharp\C-Sharp\DictionaryOfArrays\obj\Debug\netcoreapp3.1\DictionaryOfArrays.dll
 C:\Repos\Problem_solving_algorithm_practice\Non_LeetCode_problems\C-Sharp\C-Sharp\DictionaryOfArrays\obj\Debug\netcoreapp3.1\DictionaryOfArrays.pdb
 C:\Repos\Problem_solving_algorithm_practice\Non_LeetCode_problems\C-Sharp\C-Sharp\DictionaryOfArrays\obj\Debug\netcoreapp3.1\DictionaryOfArrays.genruntimeconfig.cache
+C:\Repos\Problem_solving_algorithm_practice\Non_LeetCode_problems\C-Sharp\C-Sharp\DictionaryOfArrays\obj\Debug\netcoreapp3.1\DictionaryOfArrays.csprojAssemblyReference.cache
