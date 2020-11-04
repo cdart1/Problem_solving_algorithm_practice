@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DictionaryOfArrays", "Dicti
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringPalindrome", "Palindrome\StringPalindrome.csproj", "{C4ED1DF9-5012-462C-894F-61D6F10A629E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VowelCount", "VowelCount\VowelCount.csproj", "{C14B256C-14ED-4F60-AA6A-DF46B71B814E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{C4ED1DF9-5012-462C-894F-61D6F10A629E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C4ED1DF9-5012-462C-894F-61D6F10A629E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C4ED1DF9-5012-462C-894F-61D6F10A629E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C14B256C-14ED-4F60-AA6A-DF46B71B814E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C14B256C-14ED-4F60-AA6A-DF46B71B814E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C14B256C-14ED-4F60-AA6A-DF46B71B814E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C14B256C-14ED-4F60-AA6A-DF46B71B814E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

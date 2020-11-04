@@ -1,0 +1,13 @@
+C:\Repos\Problem_solving_algorithm_practice\Non_LeetCode_problems\C-Sharp\C-Sharp\VowelCount\bin\Debug\netcoreapp3.1\VowelCount.exe
+C:\Repos\Problem_solving_algorithm_practice\Non_LeetCode_problems\C-Sharp\C-Sharp\VowelCount\bin\Debug\netcoreapp3.1\VowelCount.deps.json
+C:\Repos\Problem_solving_algorithm_practice\Non_LeetCode_problems\C-Sharp\C-Sharp\VowelCount\bin\Debug\netcoreapp3.1\VowelCount.runtimeconfig.json
+C:\Repos\Problem_solving_algorithm_practice\Non_LeetCode_problems\C-Sharp\C-Sharp\VowelCount\bin\Debug\netcoreapp3.1\VowelCount.runtimeconfig.dev.json
+C:\Repos\Problem_solving_algorithm_practice\Non_LeetCode_problems\C-Sharp\C-Sharp\VowelCount\bin\Debug\netcoreapp3.1\VowelCount.dll
+C:\Repos\Problem_solving_algorithm_practice\Non_LeetCode_problems\C-Sharp\C-Sharp\VowelCount\bin\Debug\netcoreapp3.1\VowelCount.pdb
+C:\Repos\Problem_solving_algorithm_practice\Non_LeetCode_problems\C-Sharp\C-Sharp\VowelCount\obj\Debug\netcoreapp3.1\VowelCount.AssemblyInfoInputs.cache
+C:\Repos\Problem_solving_algorithm_practice\Non_LeetCode_problems\C-Sharp\C-Sharp\VowelCount\obj\Debug\netcoreapp3.1\VowelCount.AssemblyInfo.cs
+C:\Repos\Problem_solving_algorithm_practice\Non_LeetCode_problems\C-Sharp\C-Sharp\VowelCount\obj\Debug\netcoreapp3.1\VowelCount.csproj.CoreCompileInputs.cache
+C:\Repos\Problem_solving_algorithm_practice\Non_LeetCode_problems\C-Sharp\C-Sharp\VowelCount\obj\Debug\netcoreapp3.1\VowelCount.dll
+C:\Repos\Problem_solving_algorithm_practice\Non_LeetCode_problems\C-Sharp\C-Sharp\VowelCount\obj\Debug\netcoreapp3.1\VowelCount.pdb
+C:\Repos\Problem_solving_algorithm_practice\Non_LeetCode_problems\C-Sharp\C-Sharp\VowelCount\obj\Debug\netcoreapp3.1\VowelCount.genruntimeconfig.cache
+C:\Repos\Problem_solving_algorithm_practice\Non_LeetCode_problems\C-Sharp\C-Sharp\VowelCount\obj\Debug\netcoreapp3.1\VowelCount.csprojAssemblyReference.cache
