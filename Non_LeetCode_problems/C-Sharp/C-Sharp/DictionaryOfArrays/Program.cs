@@ -7,6 +7,7 @@ namespace DictionaryOfArrays
     {
         static void Main(string[] args)
         {
+            // Given 2 inputs, a string array and an int array, create a dictionary where the string is the key and the int is the value.
             string[] strArray = { "a", "b", "c", "d" };
             int[] numArray = { 1, 2, 3, 4 };
 
