@@ -19,6 +19,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VowelCount", "VowelCount\Vo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MissingNumber", "MissingNumber\MissingNumber.csproj", "{B2DB7EB0-8C44-441F-A09E-87F0DFBF5C18}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseString", "ReverseString\ReverseString.csproj", "{1E0F3440-ED8B-4A21-B772-9B067D102425}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DictionaryKVPToString", "DictionaryKVPToString\DictionaryKVPToString.csproj", "{82AAED0A-6A1E-42F9-AFAD-32F8086D10AD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +61,14 @@ Global
 		{B2DB7EB0-8C44-441F-A09E-87F0DFBF5C18}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B2DB7EB0-8C44-441F-A09E-87F0DFBF5C18}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B2DB7EB0-8C44-441F-A09E-87F0DFBF5C18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E0F3440-ED8B-4A21-B772-9B067D102425}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E0F3440-ED8B-4A21-B772-9B067D102425}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E0F3440-ED8B-4A21-B772-9B067D102425}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E0F3440-ED8B-4A21-B772-9B067D102425}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82AAED0A-6A1E-42F9-AFAD-32F8086D10AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82AAED0A-6A1E-42F9-AFAD-32F8086D10AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82AAED0A-6A1E-42F9-AFAD-32F8086D10AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82AAED0A-6A1E-42F9-AFAD-32F8086D10AD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
