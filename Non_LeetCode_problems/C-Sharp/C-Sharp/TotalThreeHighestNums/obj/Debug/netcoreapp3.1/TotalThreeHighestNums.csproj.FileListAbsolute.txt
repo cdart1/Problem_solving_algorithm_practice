@@ -1,0 +1,13 @@
+C:\Repos\Problem_solving_algorithm_practice\Non_LeetCode_problems\C-Sharp\C-Sharp\TotalThreeHighestNums\bin\Debug\netcoreapp3.1\TotalThreeHighestNums.exe
+C:\Repos\Problem_solving_algorithm_practice\Non_LeetCode_problems\C-Sharp\C-Sharp\TotalThreeHighestNums\bin\Debug\netcoreapp3.1\TotalThreeHighestNums.deps.json
+C:\Repos\Problem_solving_algorithm_practice\Non_LeetCode_problems\C-Sharp\C-Sharp\TotalThreeHighestNums\bin\Debug\netcoreapp3.1\TotalThreeHighestNums.runtimeconfig.json
+C:\Repos\Problem_solving_algorithm_practice\Non_LeetCode_problems\C-Sharp\C-Sharp\TotalThreeHighestNums\bin\Debug\netcoreapp3.1\TotalThreeHighestNums.runtimeconfig.dev.json
+C:\Repos\Problem_solving_algorithm_practice\Non_LeetCode_problems\C-Sharp\C-Sharp\TotalThreeHighestNums\bin\Debug\netcoreapp3.1\TotalThreeHighestNums.dll
+C:\Repos\Problem_solving_algorithm_practice\Non_LeetCode_problems\C-Sharp\C-Sharp\TotalThreeHighestNums\bin\Debug\netcoreapp3.1\TotalThreeHighestNums.pdb
+C:\Repos\Problem_solving_algorithm_practice\Non_LeetCode_problems\C-Sharp\C-Sharp\TotalThreeHighestNums\obj\Debug\netcoreapp3.1\TotalThreeHighestNums.csprojAssemblyReference.cache
+C:\Repos\Problem_solving_algorithm_practice\Non_LeetCode_problems\C-Sharp\C-Sharp\TotalThreeHighestNums\obj\Debug\netcoreapp3.1\TotalThreeHighestNums.AssemblyInfoInputs.cache
+C:\Repos\Problem_solving_algorithm_practice\Non_LeetCode_problems\C-Sharp\C-Sharp\TotalThreeHighestNums\obj\Debug\netcoreapp3.1\TotalThreeHighestNums.AssemblyInfo.cs
+C:\Repos\Problem_solving_algorithm_practice\Non_LeetCode_problems\C-Sharp\C-Sharp\TotalThreeHighestNums\obj\Debug\netcoreapp3.1\TotalThreeHighestNums.csproj.CoreCompileInputs.cache
+C:\Repos\Problem_solving_algorithm_practice\Non_LeetCode_problems\C-Sharp\C-Sharp\TotalThreeHighestNums\obj\Debug\netcoreapp3.1\TotalThreeHighestNums.dll
+C:\Repos\Problem_solving_algorithm_practice\Non_LeetCode_problems\C-Sharp\C-Sharp\TotalThreeHighestNums\obj\Debug\netcoreapp3.1\TotalThreeHighestNums.pdb
+C:\Repos\Problem_solving_algorithm_practice\Non_LeetCode_problems\C-Sharp\C-Sharp\TotalThreeHighestNums\obj\Debug\netcoreapp3.1\TotalThreeHighestNums.genruntimeconfig.cache
