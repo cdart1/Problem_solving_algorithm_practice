@@ -3,9 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30204.135
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode_Problems _C-Sharp", "LeetCode_Problems _C-Sharp\LeetCode_Problems _C-Sharp.csproj", "{677ABBCE-E5D5-4D04-A950-24A256522B9F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode_Problems _C-Sharp", "LeetCode_Problems _C-Sharp\LeetCode_Problems _C-Sharp.csproj", "{677ABBCE-E5D5-4D04-A950-24A256522B9F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test1", "Test1\Test1.csproj", "{423CF687-0D5D-461C-B4CE-08008846E12A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Test1", "Test1\Test1.csproj", "{423CF687-0D5D-461C-B4CE-08008846E12A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseLinkedList", "ReverseLinkedList\ReverseLinkedList.csproj", "{278587ED-6FC2-43B3-8DEF-9A9D5D9F51F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseOnlyLetters", "ReverseOnlyLetters\ReverseOnlyLetters.csproj", "{9C78E702-EBA5-4127-B3D7-2EECD89862E9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +25,14 @@ Global
 		{423CF687-0D5D-461C-B4CE-08008846E12A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{423CF687-0D5D-461C-B4CE-08008846E12A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{423CF687-0D5D-461C-B4CE-08008846E12A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{278587ED-6FC2-43B3-8DEF-9A9D5D9F51F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{278587ED-6FC2-43B3-8DEF-9A9D5D9F51F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{278587ED-6FC2-43B3-8DEF-9A9D5D9F51F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{278587ED-6FC2-43B3-8DEF-9A9D5D9F51F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C78E702-EBA5-4127-B3D7-2EECD89862E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C78E702-EBA5-4127-B3D7-2EECD89862E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C78E702-EBA5-4127-B3D7-2EECD89862E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C78E702-EBA5-4127-B3D7-2EECD89862E9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
