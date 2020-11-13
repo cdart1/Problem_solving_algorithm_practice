@@ -3,27 +3,27 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30204.135
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C-Sharp", "C-Sharp\C-Sharp.csproj", "{7EF78320-969F-48A6-BD1D-5D2952903BF8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "C-Sharp", "C-Sharp\C-Sharp.csproj", "{7EF78320-969F-48A6-BD1D-5D2952903BF8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EvensOddsArray", "EvensOddsArray\EvensOddsArray.csproj", "{7EFAC011-B302-44D2-BCAF-789B94CAE789}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EvensOddsArray", "EvensOddsArray\EvensOddsArray.csproj", "{7EFAC011-B302-44D2-BCAF-789B94CAE789}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RepeatedLetterInString", "RepeatedLetterProblem\RepeatedLetterInString.csproj", "{20EF7A5D-10CD-4A8D-A986-B0D7518276C4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RepeatedLetterInString", "RepeatedLetterProblem\RepeatedLetterInString.csproj", "{20EF7A5D-10CD-4A8D-A986-B0D7518276C4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeConvert", "TimeConvert\TimeConvert.csproj", "{8A639E82-6493-4E26-ADFD-129C2ED48E87}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TimeConvert", "TimeConvert\TimeConvert.csproj", "{8A639E82-6493-4E26-ADFD-129C2ED48E87}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DictionaryOfArrays", "DictionaryOfArrays\DictionaryOfArrays.csproj", "{F92D8E72-16AD-4E3F-BF3C-AD72ECA8C06B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DictionaryOfArrays", "DictionaryOfArrays\DictionaryOfArrays.csproj", "{F92D8E72-16AD-4E3F-BF3C-AD72ECA8C06B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringPalindrome", "Palindrome\StringPalindrome.csproj", "{C4ED1DF9-5012-462C-894F-61D6F10A629E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StringPalindrome", "Palindrome\StringPalindrome.csproj", "{C4ED1DF9-5012-462C-894F-61D6F10A629E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VowelCount", "VowelCount\VowelCount.csproj", "{C14B256C-14ED-4F60-AA6A-DF46B71B814E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VowelCount", "VowelCount\VowelCount.csproj", "{C14B256C-14ED-4F60-AA6A-DF46B71B814E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MissingNumber", "MissingNumber\MissingNumber.csproj", "{B2DB7EB0-8C44-441F-A09E-87F0DFBF5C18}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MissingNumber", "MissingNumber\MissingNumber.csproj", "{B2DB7EB0-8C44-441F-A09E-87F0DFBF5C18}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseString", "ReverseString\ReverseString.csproj", "{1E0F3440-ED8B-4A21-B772-9B067D102425}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReverseString", "ReverseString\ReverseString.csproj", "{1E0F3440-ED8B-4A21-B772-9B067D102425}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DictionaryKVPToString", "DictionaryKVPToString\DictionaryKVPToString.csproj", "{82AAED0A-6A1E-42F9-AFAD-32F8086D10AD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DictionaryKVPToString", "DictionaryKVPToString\DictionaryKVPToString.csproj", "{82AAED0A-6A1E-42F9-AFAD-32F8086D10AD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TotalThreeHighestNums", "TotalThreeHighestNums\TotalThreeHighestNums.csproj", "{DE0B4992-E7C0-4C44-BE60-0E9A6B589515}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TotalThreeHighestNums", "TotalThreeHighestNums\TotalThreeHighestNums.csproj", "{DE0B4992-E7C0-4C44-BE60-0E9A6B589515}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
