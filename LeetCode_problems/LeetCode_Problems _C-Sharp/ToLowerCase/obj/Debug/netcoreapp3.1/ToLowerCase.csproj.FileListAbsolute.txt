@@ -1,0 +1,13 @@
+C:\Repos\Problem_solving_algorithm_practice\LeetCode_problems\LeetCode_Problems _C-Sharp\ToLowerCase\bin\Debug\netcoreapp3.1\ToLowerCase.exe
+C:\Repos\Problem_solving_algorithm_practice\LeetCode_problems\LeetCode_Problems _C-Sharp\ToLowerCase\bin\Debug\netcoreapp3.1\ToLowerCase.deps.json
+C:\Repos\Problem_solving_algorithm_practice\LeetCode_problems\LeetCode_Problems _C-Sharp\ToLowerCase\bin\Debug\netcoreapp3.1\ToLowerCase.runtimeconfig.json
+C:\Repos\Problem_solving_algorithm_practice\LeetCode_problems\LeetCode_Problems _C-Sharp\ToLowerCase\bin\Debug\netcoreapp3.1\ToLowerCase.runtimeconfig.dev.json
+C:\Repos\Problem_solving_algorithm_practice\LeetCode_problems\LeetCode_Problems _C-Sharp\ToLowerCase\bin\Debug\netcoreapp3.1\ToLowerCase.dll
+C:\Repos\Problem_solving_algorithm_practice\LeetCode_problems\LeetCode_Problems _C-Sharp\ToLowerCase\bin\Debug\netcoreapp3.1\ToLowerCase.pdb
+C:\Repos\Problem_solving_algorithm_practice\LeetCode_problems\LeetCode_Problems _C-Sharp\ToLowerCase\obj\Debug\netcoreapp3.1\ToLowerCase.AssemblyInfoInputs.cache
+C:\Repos\Problem_solving_algorithm_practice\LeetCode_problems\LeetCode_Problems _C-Sharp\ToLowerCase\obj\Debug\netcoreapp3.1\ToLowerCase.AssemblyInfo.cs
+C:\Repos\Problem_solving_algorithm_practice\LeetCode_problems\LeetCode_Problems _C-Sharp\ToLowerCase\obj\Debug\netcoreapp3.1\ToLowerCase.csproj.CoreCompileInputs.cache
+C:\Repos\Problem_solving_algorithm_practice\LeetCode_problems\LeetCode_Problems _C-Sharp\ToLowerCase\obj\Debug\netcoreapp3.1\ToLowerCase.dll
+C:\Repos\Problem_solving_algorithm_practice\LeetCode_problems\LeetCode_Problems _C-Sharp\ToLowerCase\obj\Debug\netcoreapp3.1\ToLowerCase.pdb
+C:\Repos\Problem_solving_algorithm_practice\LeetCode_problems\LeetCode_Problems _C-Sharp\ToLowerCase\obj\Debug\netcoreapp3.1\ToLowerCase.genruntimeconfig.cache
+C:\Repos\Problem_solving_algorithm_practice\LeetCode_problems\LeetCode_Problems _C-Sharp\ToLowerCase\obj\Debug\netcoreapp3.1\ToLowerCase.csprojAssemblyReference.cache

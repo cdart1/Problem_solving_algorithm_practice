@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GreatestNumOfCandies", "Gre
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SplittedBalancedString", "SplittedBalancedString\SplittedBalancedString.csproj", "{CA90065A-C527-41F8-A6BB-44BBB9784A3C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToLowerCase", "ToLowerCase\ToLowerCase.csproj", "{9ED640CD-F1BA-44B0-9B17-B6F6306830CD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{CA90065A-C527-41F8-A6BB-44BBB9784A3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CA90065A-C527-41F8-A6BB-44BBB9784A3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CA90065A-C527-41F8-A6BB-44BBB9784A3C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9ED640CD-F1BA-44B0-9B17-B6F6306830CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9ED640CD-F1BA-44B0-9B17-B6F6306830CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9ED640CD-F1BA-44B0-9B17-B6F6306830CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9ED640CD-F1BA-44B0-9B17-B6F6306830CD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
