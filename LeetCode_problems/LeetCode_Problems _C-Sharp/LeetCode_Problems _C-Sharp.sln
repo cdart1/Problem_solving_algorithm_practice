@@ -19,6 +19,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ToLowerCase", "ToLowerCase\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HowManySmallerNums", "HowManySmallerNums\HowManySmallerNums.csproj", "{F7CC3711-642D-4DD9-863B-1FAA7E4461B3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RunningSum1dArray", "RunningSum1dArray\RunningSum1dArray.csproj", "{0FA52AC6-4DF4-41A6-A6FA-35E910C55F47}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{F7CC3711-642D-4DD9-863B-1FAA7E4461B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F7CC3711-642D-4DD9-863B-1FAA7E4461B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F7CC3711-642D-4DD9-863B-1FAA7E4461B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0FA52AC6-4DF4-41A6-A6FA-35E910C55F47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FA52AC6-4DF4-41A6-A6FA-35E910C55F47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FA52AC6-4DF4-41A6-A6FA-35E910C55F47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FA52AC6-4DF4-41A6-A6FA-35E910C55F47}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
