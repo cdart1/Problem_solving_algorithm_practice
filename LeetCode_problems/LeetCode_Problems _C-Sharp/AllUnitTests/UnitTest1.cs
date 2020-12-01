@@ -1,5 +1,6 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using RunningSum1dArray;
+using AreTwoStringArraysEquivalentProblem;
 
 namespace AllUnitTests
 {
@@ -36,6 +37,29 @@ namespace AllUnitTests
             {
                 Assert.AreEqual(expected3[i], testResult3[i]);
             }
+        }
+
+        [TestMethod]
+        public void ArrayStringsAreEqualTest()
+        {
+            string[] word1Array1 = { "ab", "c" };
+            string[] word1Array2 = { "a", "bc" };
+            string[] word2Array1 = { "a", "cb" };
+            string[] word2Array2 = { "ab", "c" };
+            string[] word3Array1 = { "abc", "d", "defg" };
+            string[] word3Array2 = { "abcddefg" };
+
+
+            bool result1 = AreTwoStringArraysEquivalent.ArrayStringsAreEqual(word1Array1, word1Array2);
+            bool result2 = AreTwoStringArraysEquivalent.ArrayStringsAreEqual(word2Array1, word2Array2);
+            bool result3 = AreTwoStringArraysEquivalent.ArrayStringsAreEqual(word3Array1, word3Array2);
+
+
+            Assert.IsTrue(result1);
+            Assert.IsFalse(result2);
+            Assert.IsTrue(result3);
+
+
         }
     }
 }
