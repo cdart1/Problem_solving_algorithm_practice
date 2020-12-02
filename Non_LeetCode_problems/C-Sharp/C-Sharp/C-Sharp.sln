@@ -27,9 +27,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TotalThreeHighestNums", "To
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BinaryTreeImplementation", "BinaryTreeImplementation\BinaryTreeImplementation.csproj", "{D2FE3AAB-F2A7-4977-B0EB-C90E5B3890BD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortedOrderArray", "SortedOrderArray\SortedOrderArray.csproj", "{91777352-C2D1-498A-8954-4414F7703700}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SortedOrderArray", "SortedOrderArray\SortedOrderArray.csproj", "{91777352-C2D1-498A-8954-4414F7703700}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AllUnitTests", "AllUnitTests\AllUnitTests.csproj", "{9E80F3D4-CA04-4F9F-940E-EAE9EB9F7D4F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AllUnitTests", "AllUnitTests\AllUnitTests.csproj", "{9E80F3D4-CA04-4F9F-940E-EAE9EB9F7D4F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConcatenateSumProblem", "ConcatenateSumProblem\ConcatenateSumProblem.csproj", "{7983851A-37FA-4627-B776-B27B9B04A84D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -93,6 +95,10 @@ Global
 		{9E80F3D4-CA04-4F9F-940E-EAE9EB9F7D4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9E80F3D4-CA04-4F9F-940E-EAE9EB9F7D4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9E80F3D4-CA04-4F9F-940E-EAE9EB9F7D4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7983851A-37FA-4627-B776-B27B9B04A84D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7983851A-37FA-4627-B776-B27B9B04A84D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7983851A-37FA-4627-B776-B27B9B04A84D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7983851A-37FA-4627-B776-B27B9B04A84D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

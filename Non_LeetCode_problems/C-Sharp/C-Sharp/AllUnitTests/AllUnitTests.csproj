@@ -14,6 +14,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\ConcatenateSumProblem\ConcatenateSumProblem.csproj" />
     <ProjectReference Include="..\SortedOrderArray\SortedOrderArray.csproj" />
   </ItemGroup>
 

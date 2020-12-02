@@ -1,5 +1,6 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using SortedOrderArray;
+using ConcatenateSumProblem;
 
 namespace AllUnitTests
 {
@@ -21,6 +22,22 @@ namespace AllUnitTests
             Assert.IsFalse(result2);
             Assert.IsTrue(method2Result1);
             Assert.IsFalse(method2Result2);
+        }
+
+        [TestMethod]
+        public void ConcatenateSumProblemTest()
+        {
+            int[] input1 = { 10, 2 };
+            int[] input2 = { 8 };
+            int[] input3 = { 1, 2, 3 };
+
+            int result1 = ConcatenateSumClass.ConcatenateSum(input1);
+            int result2 = ConcatenateSumClass.ConcatenateSum(input2);
+            int result3 = ConcatenateSumClass.ConcatenateSum(input3);
+
+            Assert.AreEqual(1344, result1);
+            Assert.AreEqual(88, result2);
+            Assert.AreEqual(198, result3);
         }
     }
 }
