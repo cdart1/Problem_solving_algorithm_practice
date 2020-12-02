@@ -17,6 +17,9 @@ namespace DictionaryKVPToString
             string outputString2 = KVPToStringProblem.KVPToString2(dictionary);
             Console.WriteLine(outputString);
             Console.WriteLine(outputString2);
+
+//            a1 b2 c3
+//              a1b2c3
         }
     }
 }

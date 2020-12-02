@@ -1,14 +1,15 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using SortedOrderArray;
-using ConcatenateSumProblem;
+using AllMyAlgorithms;
+using System.Collections.Generic;
 
 namespace AllUnitTests
 {
     [TestClass]
-    public class UnitTest1
+    public class AllUnitTests
     {
         [TestMethod]
-        public void TestMethod1()
+        public void SortArrayAscendingTest()
         {
             int[] input1 = { 1, 3, 5, 6, 4, 2 };
             int[] input2 = { 1, 4, 5, 6, 3 };
@@ -39,5 +40,24 @@ namespace AllUnitTests
             Assert.AreEqual(88, result2);
             Assert.AreEqual(198, result3);
         }
+
+        [TestMethod]
+        public void KVPToStringProblemTest()
+        {
+            Dictionary<string, int> dictionary = new Dictionary<string, int>()
+            {
+                {"a", 1 },
+                {"b", 2 },
+                {"c", 3 },
+            };
+
+            string outputString = KVPToStringProblem.KVPToString(dictionary);
+            string outputString2 = KVPToStringProblem.KVPToString2(dictionary);
+
+            // Reminder: Remove space after 'c3'
+            Assert.AreEqual("a1 b2 c3 ", outputString);
+            Assert.AreEqual("a1b2c3", outputString2);
+        }
+
     }
 }

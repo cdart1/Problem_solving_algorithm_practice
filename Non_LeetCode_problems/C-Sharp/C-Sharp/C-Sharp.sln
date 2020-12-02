@@ -31,7 +31,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SortedOrderArray", "SortedO
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AllUnitTests", "AllUnitTests\AllUnitTests.csproj", "{9E80F3D4-CA04-4F9F-940E-EAE9EB9F7D4F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConcatenateSumProblem", "ConcatenateSumProblem\ConcatenateSumProblem.csproj", "{7983851A-37FA-4627-B776-B27B9B04A84D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AllMyAlgorithms", "AllMyAlgorithms\AllMyAlgorithms.csproj", "{5FB19D51-7665-4780-937F-7F7F9775673D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -95,10 +95,10 @@ Global
 		{9E80F3D4-CA04-4F9F-940E-EAE9EB9F7D4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9E80F3D4-CA04-4F9F-940E-EAE9EB9F7D4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9E80F3D4-CA04-4F9F-940E-EAE9EB9F7D4F}.Release|Any CPU.Build.0 = Release|Any CPU
-		{7983851A-37FA-4627-B776-B27B9B04A84D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{7983851A-37FA-4627-B776-B27B9B04A84D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{7983851A-37FA-4627-B776-B27B9B04A84D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{7983851A-37FA-4627-B776-B27B9B04A84D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5FB19D51-7665-4780-937F-7F7F9775673D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FB19D51-7665-4780-937F-7F7F9775673D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FB19D51-7665-4780-937F-7F7F9775673D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FB19D51-7665-4780-937F-7F7F9775673D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
