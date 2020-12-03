@@ -53,5 +53,48 @@ namespace RunningSum1dArray
             }
             return numsArray;
         }
+
+        public static int[] RunningSum2(int[] input)
+        {
+            int sum = 0;
+            int[] numArray = new int[input.Length];
+            for (int i = 0; i < input.Length; i++)
+            {
+                if (i == 0)
+                {
+                    numArray[i] = input[i];
+                    sum += input[i];
+                }
+                if (i > 0)
+                {
+                    sum += input[i];
+                    numArray[i] = sum;
+                }
+            }
+            return numArray;
+        }
+
+        public static List<int> RunningSum3(int[] input)
+        {
+            int sum = 0;
+            List<int> numArray = new List<int>();
+            for (int i = 0; i < input.Length; i++)
+            {
+                if (i == 0)
+                {
+                    numArray.Add(input[i]);
+                    sum += input[i];
+                }
+                if (i > 0)
+                {
+                    sum += input[i];
+                    numArray.Add(sum);
+                }
+            }
+            return numArray;
+        }
     }
 }
+
+
+

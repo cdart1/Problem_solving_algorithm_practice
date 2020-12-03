@@ -20,6 +20,9 @@ namespace AllUnitTests
             int[] testResult1 = RunningSumProblem.RunningSum(test1);
             int[] testResult2 = RunningSumProblem.RunningSum(test2);
             int[] testResult3 = RunningSumProblem.RunningSum(test3);
+            int[] testResult4 = RunningSumProblem.RunningSum2(test1);
+            int[] testResult5 = RunningSumProblem.RunningSum2(test2);
+            int[] testResult6 = RunningSumProblem.RunningSum2(test3);
 
             int[] expected1 = { 1, 3, 6, 10 };
             int[] expected2 = { 1, 2, 3, 4, 5 };
@@ -36,6 +39,18 @@ namespace AllUnitTests
             for (int i = 0; i < test3.Length; i++)
             {
                 Assert.AreEqual(expected3[i], testResult3[i]);
+            }
+            for (int i = 0; i < test1.Length; i++)
+            {
+                Assert.AreEqual(expected1[i], testResult4[i]);
+            }
+            for (int i = 0; i < test2.Length; i++)
+            {
+                Assert.AreEqual(expected2[i], testResult5[i]);
+            }
+            for (int i = 0; i < test3.Length; i++)
+            {
+                Assert.AreEqual(expected3[i], testResult6[i]);
             }
         }
 
