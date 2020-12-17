@@ -13,17 +13,19 @@ namespace ReverseOnlyLetters
             int j = s.Length - 1;
             while (i < j)
             {
-                while (i < j && !char.IsLetter(characters[i]))
+                while (!char.IsLetter(characters[i]))
                 {
                     i++;
                 }
-                while (j > i && !char.IsLetter(characters[j]))
+                while (!char.IsLetter(characters[j]))
                 {
                     j--;
                 }
                 char temp = characters[i];
-                characters[i++] = characters[j];
-                characters[j--] = temp;
+                characters[i] = characters[j];
+                characters[j] = temp;
+                i++;
+                j--;
             }
             return new string(characters);
         }
