@@ -16,7 +16,7 @@ namespace DictionaryOfArrays
                 {
                     arrayDict.Add(strArray[i], numArray[j]);
                     j++;
-                }
+                }    
             }
             return arrayDict;
         }
