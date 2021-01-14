@@ -11,6 +11,9 @@ namespace longestWordInDictionary
         /// </summary>
         /// <param name="words"></param>
         /// <returns>This method return the longest string.</returns>
+        /// Helpful references: 
+        /// https://docs.microsoft.com/en-us/dotnet/api/system.string.compareto?view=net-5.0
+        /// https://docs.microsoft.com/en-us/dotnet/api/system.string.substring?view=net-5.0
         public static string LongestWord(string[] words)
         {
             string ans = "";
