@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
 using System.Text;
 
 namespace longestWordInDictionary
@@ -177,6 +178,88 @@ namespace longestWordInDictionary
                 }
             }
             return smallest;
+        }
+
+        /// <summary>
+        /// Solution from David Fryling.
+        /// </summary>
+        /// <param name="words"></param>
+        /// <returns></returns>
+        public static string LongestWord3(string[] words)
+        {
+            HashSet<string> quickLookup = new HashSet<string>();
+            Stack<string> stackedWords = new Stack<string>();
+            List<string> longestWords = new List<string>();
+            Dictionary<string, int> lexicoSums = new Dictionary<string, int>();
+            string longestWord = "starterStringSetToThirtyChars.";
+            string partOfWord = "";
+            int count = 0;
+            string smallestLexico = "";
+            int longestViableWord = 0;
+
+            //insert null string into stack to keep while loop from breaking
+            stackedWords.Push("");
+
+            //1a: sort words[]
+            for (int i = 0; i < words.Length - 1; i++)
+            {
+                for (int j = 0; j < words.Length - 1; j++)
+                {
+                    if (words[j].Length > words[j + 1].Length)
+                    {
+                        string temp = words[j];
+                        words[j] = words[j + 1];
+                        words[j + 1] = temp;
+                    }
+                }
+            }
+            //1b: store words in new data structures
+            for (int i = 0; i < words.Length; i++)
+            {
+                quickLookup.Add(words[i]);
+                stackedWords.Push(words[i]);
+            }
+
+            //2: wrap code in while loop
+            while (stackedWords.Peek().Length >= longestViableWord)
+            {
+                //2a: pop longest word and check each growing part of it against contents of hashset
+                longestWord = stackedWords.Pop();
+                partOfWord = "";
+                count = 0;
+                for (int i = 0; i < longestWord.Length; i++)
+                {
+                    partOfWord += longestWord[i];
+                    if (quickLookup.Contains(partOfWord))
+                    {
+                        count++;
+                    }
+                    else break;
+                }
+                if (count == longestWord.Length)
+                {
+                    longestWords.Add(longestWord);
+                    longestViableWord = longestWord.Length;
+                }
+                else continue;
+            }
+            foreach (string word in longestWords)
+            {
+                int sum = 0;
+                for (int i = 0; i < word.Length; i++)
+                {
+                    int charValue = Convert.ToInt32(word[i]);
+                    sum += charValue;
+                }
+                if (!lexicoSums.ContainsKey(word))
+                {
+                    lexicoSums.Add(word, sum);
+                }
+            }
+            smallestLexico = lexicoSums.Min(kvPair => kvPair.Key);
+
+            return smallestLexico;
+
         }
     }
 }

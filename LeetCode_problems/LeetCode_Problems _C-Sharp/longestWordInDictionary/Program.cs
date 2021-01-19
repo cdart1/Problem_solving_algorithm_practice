@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Linq;
 
 namespace longestWordInDictionary
 {
@@ -35,6 +37,7 @@ namespace longestWordInDictionary
             string[] words = new string[] { "d", "do", "dog", "p", "pe", "pen", "peng", "pengu", "pengui", "penguin", "e", "el", "ele", "elep", "eleph", "elepha", "elephan", "elephant" };
             string[] words2 = new string[] { "a", "banana", "app", "appl", "ap", "apply", "apple" };
             string[] words3 = new string[] { "w", "wo", "wor", "worl", "world" };
+            string[] words4 = new string[] { "ts", "e", "x", "pbhj", "opto", "xhigy", "erikz", "pbh", "opt", "erikzb", "eri", "erik", "xlye", "xhig", "optoj", "optoje", "xly", "pb", "xhi", "x", "o" };
             string answer = LongestWordProblem.LongestWord(words);
             string answer2 = LongestWordProblem.LongestWord(words2);
             string answer3 = LongestWordProblem.LongestWord(words3);
@@ -48,6 +51,8 @@ namespace longestWordInDictionary
             Console.WriteLine(answer4);
             Console.WriteLine(answer5);
             Console.WriteLine(answer6);
+            //string answer = LongestWord(words4);
+            //Console.WriteLine(answer);
         }
     }
 }
