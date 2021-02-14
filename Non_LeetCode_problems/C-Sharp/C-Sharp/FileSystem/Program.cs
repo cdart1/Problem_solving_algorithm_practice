@@ -56,9 +56,9 @@ namespace FileSystem
                     if (currentDir == fileSystem.RootFolder.Name)
                     {
                         // Add the list of folders to RootFolder
-                        fileSystem.RootFolder.FolderList = new List<Folder>();
+                        fileSystem.CurrentFolder.FolderList = new List<Folder>();
                         // Add folder into the new list
-                        fileSystem.RootFolder.FolderList.Add(new Folder(folderName));
+                        fileSystem.CurrentFolder.FolderList.Add(new Folder(folderName));
 
                         // Removes '/>' from the end of a string.
                         // It will change a string from 'FS:/>' to 'FS: (or 'FS:/folder1/>' to 'FS:/folder1' when you're not in root folder).
@@ -72,7 +72,20 @@ namespace FileSystem
                     }
                     else
                     {
-                        
+                        // Add the list of folders to RootFolder
+                        fileSystem.CurrentFolder.FolderList = new List<Folder>();
+                        // Add folder into the new list
+                        fileSystem.CurrentFolder.FolderList.Add(new Folder(folderName));
+
+                        // Removes '/>' from the end of a string.
+                        // It will change a string from 'FS:/>' to 'FS: (or 'FS:/folder1/>' to 'FS:/folder1' when you're not in root folder).
+                        string currentPathString = GetCurrentPathString(currentDir);
+
+                        // E.g. Takes 'FS:' and concatinates it with '/folder1/' to return 'FS:/folder1'
+                        string pathWithNewFolder = GetPathWithNewFolder(currentPathString, folderName);
+
+                        //Adds 'FS:/folder1' to PossiblePathSet.
+                        fileSystem.PossiblePathSet.Add(pathWithNewFolder);
                     }
                 }
                 if (regexCreateFile.IsMatch(command))
@@ -84,9 +97,9 @@ namespace FileSystem
                     if (currentDir == fileSystem.RootFolder.Name)
                     {
                         
-                        fileSystem.RootFolder.FileList = new List<File>();
+                        fileSystem.CurrentFolder.FileList = new List<File>();
                         
-                        fileSystem.RootFolder.FileList.Add(new File(fileName));
+                        fileSystem.CurrentFolder.FileList.Add(new File(fileName));
                     }
                 }
                 if (regexDeleteFolder.IsMatch(command))
