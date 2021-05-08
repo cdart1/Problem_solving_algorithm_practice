@@ -1,6 +1,7 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using RunningSum1dArray;
 using AreTwoStringArraysEquivalentProblem;
+using _704BinarySearch;
 
 namespace AllUnitTests
 {
@@ -73,8 +74,40 @@ namespace AllUnitTests
             Assert.IsTrue(result1);
             Assert.IsFalse(result2);
             Assert.IsTrue(result3);
+        }
 
+        [TestMethod]
+        public void BinarySearchTest()
+        {
+            int[] nums1 = { 2, 4, 6, 7, 8};
+            int[] nums2 = { 100, 200, 300, 400};
+            int[] nums3 = { -1, 0, 99};
 
+            int target1 = 8;
+            int target2 = 100;
+            int target3 = 99;
+            int target4 = 9;
+
+            int result1 = BinarySearchProgram.BinarySearch(nums1, target1);
+            int result2 = BinarySearchProgram.BinarySearch(nums1, target4);
+            int result3 = BinarySearchProgram.BinarySearch(nums2, target2);
+            int result4 = BinarySearchProgram.BinarySearch(nums2, target4);
+            int result5 = BinarySearchProgram.BinarySearch(nums3, target3);
+            int result6 = BinarySearchProgram.BinarySearch(nums3, target4);
+
+            int expected1 = 4;
+            int expected2 = -1;
+            int expected3 = 0;
+            int expected4 = -1;
+            int expected5 = 2;
+            int expected6 = -1;
+
+            Assert.AreEqual(expected1, result1);
+            Assert.AreEqual(expected2, result2);
+            Assert.AreEqual(expected3, result3);
+            Assert.AreEqual(expected4, result4);
+            Assert.AreEqual(expected5, result5);
+            Assert.AreEqual(expected6, result6);
         }
     }
 }

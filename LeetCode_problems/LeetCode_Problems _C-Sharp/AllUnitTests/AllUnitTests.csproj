@@ -14,6 +14,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\704BinarySearch\704BinarySearch.csproj" />
     <ProjectReference Include="..\AreTwoStringArraysEquivalentProblem\AreTwoStringArraysEquivalentProblem.csproj" />
     <ProjectReference Include="..\RunningSum1dArray\RunningSum1dArray.csproj" />
   </ItemGroup>
